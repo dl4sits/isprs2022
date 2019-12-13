@@ -7,20 +7,21 @@ check their [readme](https://github.com/jekyll/minima) for more info.
 
 ## Run (and edit) locally
 
-##### install dependency (?) with
+##### install ruby
 
-```sudo gem install public_suffix -v '4.0.1' --source 'https://rubygems.org/'```
+```brew install ruby```
 
-##### install bundle
+##### install bundle for this repo
 
-```sudo bundle install```
+  ```bundle install```
 
 ##### start server locally
-```start server with `bundle exec jekyll serve```
+start server with
+```bundle exec jekyll serve```
 
 ##### open browser
 http://127.0.0.1:4000
 
 
 ## Structure
-Check `_config.yml` for meta-data, and `index.md` + `_posts/*` for page content
+Check `_config.yml` for meta-data, and  + `_posts/*` for page content
