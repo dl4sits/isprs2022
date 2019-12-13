@@ -2,6 +2,7 @@
 layout: page
 title: about
 permalink: /about/
+path: about.md
 ---
 
 #### Dr. Marco Körner¹, Marc Rußwurm M.Sc.¹, Dr. Charlotte Pelletier², Dr. Romain Tavenard³
