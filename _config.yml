@@ -1,11 +1,13 @@
-title: DL4TS isprs2020
+title: Deep Learning for Satellite Time Series
 author: Marco Körner, Marc Rußwurm, Charlotte Pelletier, Romain Tavenard
-email:
 description: > # this means to ignore newlines until "show_excerpts:"
   Deep Learning for Satellite Time Series Tutorial and Thematic Session at ISPRS 2020 Congress in Nice, France.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
@@ -14,7 +16,7 @@ minima:
   # generate social links in footer
   social_links:
     #twitter: jekyllrb
-    #github:  jekyll
+    github:  dl4sits/isprs2020
     #rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -41,6 +43,9 @@ minima:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
+
+exclude:
+  - README.md
 
 # Build settings
 theme: minima
