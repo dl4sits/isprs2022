@@ -41,6 +41,9 @@ Marc Rußwurm received his Bachelor and Master degrees in Geodesy and Geoinforma
 
 Charlotte Pelletier is an assistant professor in computer science at the University of Southern Brittany, Vannes, Frances. She conducts her research in Obelix team at the Institute for Research in IT and Random Systems (IRISA), Vannes, France. Her research focuses on machine learning, in particular time series analysis with applications in remote sensing. From January 2018 to September 2019, she was a research fellow at the Faculty of Information Technology, Monash University, Melbourne, Australia. During her postdoctoral, she proposed and developed accurate and scalable time series classification algorithms. In December 2017, she completed her Ph.D. with the French Space Agency (CNES) and the French Mapping Agency (IGN), at CESBIO laboratory in Toulouse (France). Her Ph.D work aimed at improving the classification of new high resolution satellite image time series, such as the one produced by Sentinel-2 satellites. This work has been awarded best PhD in Science by the Académie des Sciences of Toulouse in 2018. In 2014, she received an electrical engineering degree from ENSEIRB-MATMECA/INP in Bordeaux (France) and a Master degree from Université Bordeaux (France).
 
-### Romain Tavenard
+### [Romain Tavenard](https://rtavenar.github.io/research/bio.html)
 
-tbd
+<img src="{{site.baseurl}}/assets/img/romain_tavenard.jpg" width="200"/>
+
+Romain Tavenard graduated from École Centrale de Lyon and ENS Cachan/Rennes, and received his PhD degree from University of Rennes 1 in 2011. After 2 years as a post-doctoral fellow at Idiap Research Institute, he is now an assistant professor at University of Rennes 2. Here, he investigates dedicated machine learning methods for environmental time series.
+He is the creator of the [tslearn](https://tslearn.readthedocs.io/en/latest/) Python toolkit for machine learning with time series. 
