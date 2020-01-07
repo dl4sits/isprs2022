@@ -1,6 +1,6 @@
 ---
 layout: page
-title: isprs 2020
+title: ISPRS 2020
 ---
 
 ### XXIV ISPRS Congress of the International Society of Photogrammetry and Remote Sensing
