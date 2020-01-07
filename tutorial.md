@@ -20,19 +20,19 @@ Introduction to deep learning and the concepts of jointly learned feature extrac
 
 #### Convolutional Neural Networks
 
-<img src="{{site.baseurl}}/assets/img/cnn.png" width=400>
+<img src="{{site.baseurl}}/assets/img/cnn.png" width="400">
 
 Convolutional Neural Networks are covered in the second part of the tutorial. After introducing the principle of convolutions for time series, we will implement and apply a simple temporal convolutional neural network to a remote sensing dataset. Then, some key components of the state-of-the-art convolutional neural network architectures including residual connections and inception modules are described and tested. The use of pooling layers and the concept of receptive fields are also discussed.
 
 #### Recurrent Neural Networks
 
-<img src="{{site.baseurl}}/assets/img/convlstm.gif" width=400>
+<img src="{{site.baseurl}}/assets/img/convlstm.gif" width="400">
 
 Recurrent Neural Networks are covered first in theory and then following practical examples. In particular, the vanishing gradient problem is addressed and the two main architectures to solve this issue, i.e., long short-term memory networks and gated recurrent units, are introduced. Examples from remote sensing and text analysis are given to support understanding.
 
 #### Self-Attention Networks
 
-<img src="{{site.baseurl}}/assets/img/self-attention-1.gif" width=400>
+<img src="{{site.baseurl}}/assets/img/self-attention-1.gif" width="400">
 
 Self-Attention Networks, as used in the Transformer, Bert, or GPT models, are covered in the fourth part. The concept of self-attention is introduced in a gentle manner. The relationship of attention scores to input and output time series is outlined. Practical examples from language and remote sensing time series close this part.
 
