@@ -6,4 +6,4 @@ categories: misc
 
 Our thematic session has been accepted. We are looking forward to submissions
 
-Check out updates on the [sessions page]({{site.baseurl}}/session)
+Check out updates on the [Thematic session page]({{site.baseurl}}/session)
