@@ -45,5 +45,4 @@ Charlotte Pelletier is an assistant professor in computer science at the Univers
 
 <img src="{{site.baseurl}}/assets/img/romain_tavenard.jpg" width="200"/>
 
-Romain Tavenard graduated from École Centrale de Lyon and ENS Cachan/Rennes, and received his PhD degree from University of Rennes 1 in 2011. After 2 years as a post-doctoral fellow at Idiap Research Institute, he is now an assistant professor at University of Rennes 2. Here, he investigates dedicated machine learning methods for environmental time series.
-He is the creator of the [tslearn](https://tslearn.readthedocs.io/en/latest/) Python toolkit for machine learning with time series. 
+Romain Tavenard graduated from École Centrale de Lyon and ENS Cachan/Rennes, and received his PhD degree from University of Rennes 1 in 2011. After 2 years as a post-doctoral fellow at Idiap Research Institute, he is now an assistant professor at University of Rennes 2. Here, he investigates dedicated machine learning methods for environmental time series. He is the creator of the [tslearn](https://tslearn.readthedocs.io/en/latest/) Python toolkit for machine learning with time series. 
