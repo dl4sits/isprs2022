@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tutorial
+title: Tutorial
 permalink: /tutorial/
 ---
 
