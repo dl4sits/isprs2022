@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 path: about.md
 ---
@@ -17,7 +17,10 @@ Univ. Bretagne Sud
 Campus de Tohannic
 BP 573, 56 000 Vannes, France
 
-³ tbd
+³ LETG, UMR CNRS 6554
+Univ. Rennes
+Place du Recteur Henri Le Moal 
+35043 Rennes Cedex
 
 ### Marco Körner
 
@@ -32,7 +35,7 @@ In 2014, he became the deputy head of the Chair of Remote Sensing Technology at 
 
 Marc Rußwurm received his Bachelor and Master degrees in Geodesy and Geoinformation at the Technical University of Munich (TUM) in 2014 and 2018 where he focused on Remote Sensing and Earth Observation. In the final years of his studies, he combined methods of computer vision and natural language processing for analysis of multi-temporal satellite images. His work was published in multiple machine learning and remote sensing conferences and journals and his publication at the Earthvision 2017 workshop at the CVPR conference received the best paper award. In 2018 he continued his research as Ph.D. Candidate at the TUM Chair of Remote Sensing Technology and conducted multiple international research experience at the Polish Space Research center, as a participant at the Frontier Development Lab at ESA Rome and Oxford, and, at the IRISA Obelix Lab in France.
 
-### Charlotte Pelletier
+### [Dr. Charlotte Pelletier](https://sites.google.com/site/charpelletier)
 
 <img src="{{site.baseurl}}/assets/img/charlotte_pelletier.jpg" width="200"/>
 
