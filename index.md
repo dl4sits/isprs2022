@@ -11,7 +11,7 @@ layout: home
 
 ## Thematic Session and Tutorial
 ### Deep Learning on Satellite Image Time Series
-#### [ISPRS 2020](http://www.isprs2020-nice.com/index.php/program/) Congress. June 14th until June 20th 2020.
+#### [ISPRS 2020](http://www.isprs2020-nice.com/index.php/program/) Congress. June 14th until June 20th 2020. This is a test.
 
 <!--
 http://www.isprs2020-nice.com/index.php/program/
