@@ -2,6 +2,7 @@
 layout: page
 title: Tutorial
 permalink: /tutorial/
+path: tutorial.md
 ---
 
 #### 2022 -- ISPRS Congress 2022 in Nice, France

@@ -2,6 +2,7 @@
 layout: page
 title: Thematic session
 permalink: /session/
+path: session.md
 ---
 
 ### Deep learning for Satellite Image Time Series Analysis

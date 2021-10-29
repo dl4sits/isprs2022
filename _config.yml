@@ -1,7 +1,7 @@
 title: Deep Learning for Satellite Time Series
-author: Marco Körner, Marc Rußwurm, Charlotte Pelletier, Romain Tavenard
+author: Charlotte Pelletier, Marc Rußwurm, Zhou Zhang
 description: > # this means to ignore newlines until "show_excerpts:"
-  Deep Learning for Satellite Time Series Tutorial and Thematic Session at ISPRS 2020 Congress in Nice, France.
+  Deep Learning for Satellite Time Series Tutorial and Thematic Session at ISPRS 2022 Congress in Nice, France.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -42,7 +42,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - isprs2020.md
+ - isprs2022.md
  - session.md
  - tutorial.md
  - about.md
