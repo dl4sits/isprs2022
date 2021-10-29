@@ -9,9 +9,8 @@ permalink: /session/
 #### Organizers
 
 Dr. Charlotte Pelletier, Univ. Bretagne Sud (IRISA), France
-Dr. Marco Körner, Technical University of Munich, Germany
-Marc Rußwurm, M.Sc., Technical University of Munich, Germany
-Dr. Romain Tavenard, Univ. Rennes 2 (LETG), Rennes
+Dr. Zhou Zhang, Wisconsin-Madison, USA
+Marc Rußwurm, M.Sc., EPFL-ECEO, Sion, Switzerland
 
 Satellite Image Time Series \| Deep learning \| Classification
 

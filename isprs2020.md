@@ -15,3 +15,4 @@ Check
 * [Programme](http://www.isprs2020-nice.com/index.php/program/)
 * [Submission](http://www.isprs2020-nice.com/index.php/participate-submit/)
 * [Registration](https://www.conftool.com/isprs2020/)
+

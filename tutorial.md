@@ -4,7 +4,7 @@ title: Tutorial
 permalink: /tutorial/
 ---
 
-#### June 20th 2020 -- ISPRS Congress 2020, Nice
+#### 2022 -- ISPRS Congress 2022 in Nice, France
 
 ### Time Series in Earth Observation
 Dynamics on the Earth’s surface are governed by continuous temporal processes that can be observed in discrete intervals by Earth observation satellites that cover the same location on Earth at regular temporal intervals. An increase in data availability and the development of data-driven methods allow us to use new space-borne measurements to estimate the parameters of deep learning models for a variety of applications, such as vegetation modeling, climate forecasting, or precipitation nowcasting.
@@ -39,10 +39,5 @@ Self-Attention Networks, as used in the Transformer, Bert, or GPT models, are co
 #### Conclusion
 
 Conclusions. This tutorial finishes by some conclusions and a brief outlook on the current research for satellite image time series classification.
-
-### Expected Audience
-
-We prepare for 50-100 participants from academia and remote sensing industry that have a basic understanding of the core principles of deep learning, but no practical experience on time series analysis, yet. Technical knowledge in Python, Jupyter/Colab notebooks will help to understand the practical components of the tutorial.
-Resources
 
 We provide a link to a public GitHub repository with Jupyter notebooks and slides. During the practical sessions, each participant is encouraged to utilize their own laptop to run the Jupyter notebooks either on their own devices or on a Google Colab Notebook using their respective Google accounts. We provide links and resources to start the Colab Notebooks from the GitHub repository and may gather additional questions with tools like sli.do or pringo.
