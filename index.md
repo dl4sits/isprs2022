@@ -13,14 +13,18 @@ layout: home
 ### Deep Learning on Satellite Image Time Series
 #### [ISPRS 2022](http://www.isprs2020-nice.com/index.php/program/) Congress. June 6-11 2022.
 
+We are glad to organize the Thematic Session and Tutorial on Deep Learning on Satellite Image Time Series at the ISPRS Congress in Nice, France, 2022.
+
+**Thematic Session**
+> Please [submit](https://www.conftool.com/isprs2020) your ISPRS papers on the [Thematic Session](/session/) track **ST_STIS** until **January 10, 2022** following the [instructions for authors](https://www.isprs2022-nice.com/index.php/participate-submit/#submitapaperabstract).
+
+**Tutorial**
+> Please sign up for the [Tutorial](/tutorial/) at ISPRS2022 (more information soon)
+
 Organizers
 * [Dr. Charlotte Pelletier](https://sites.google.com/site/charpelletier), Univ. Bretagne Sud (IRISA), France
 * [Dr. Zhou Zhang](https://bse.wisc.edu/staff/zhang-zhou/), Wisconsin-Madison, USA
 * [Marc Rußwurm](https://www.marcrusswurm.com), M.Sc., EPFL-ECEO, Sion, Switzerland
-
-We are glad to organize the Thematic Session and Tutorial on Deep Learning on Satellite Image Time Series at the ISPRS Congress in Nice, France, 2022.
-
-Please [submit](https://www.conftool.com/isprs2020) your ISPRS papers on the [Thematic Session](/session/) track **ST_STIS** until **January 10, 2022** following the [instructions for authors](https://www.isprs2022-nice.com/index.php/participate-submit/#submitapaperabstract). Additionally, you are very welcome to sign up for the [Tutorial](/tutorial/) (information, upcoming)
 
 <!--
 http://www.isprs2020-nice.com/index.php/program/
