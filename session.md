@@ -9,9 +9,9 @@ path: session.md
 
 #### Organizers
 
-Dr. Charlotte Pelletier, Univ. Bretagne Sud (IRISA), France
-Dr. Zhou Zhang, Wisconsin-Madison, USA
-Marc Rußwurm, M.Sc., EPFL-ECEO, Sion, Switzerland
+[Dr. Charlotte Pelletier](https://sites.google.com/site/charpelletier), Univ. Bretagne Sud (IRISA), France
+[Dr. Zhou Zhang]( https://bse.wisc.edu/staff/zhang-zhou/ ), Wisconsin-Madison, USA
+[Marc Rußwurm](https://www.marcrusswurm.com), M.Sc., EPFL-ECEO, Sion, Switzerland
 
 Satellite Image Time Series \| Deep learning \| Classification
 

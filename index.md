@@ -26,6 +26,9 @@ Organizers
 * [Dr. Zhou Zhang](https://bse.wisc.edu/staff/zhang-zhou/), Wisconsin-Madison, USA
 * [Marc Rußwurm](https://www.marcrusswurm.com), M.Sc., EPFL-ECEO, Sion, Switzerland
 
+
+
+
 <!--
 http://www.isprs2020-nice.com/index.php/program/
 -->
