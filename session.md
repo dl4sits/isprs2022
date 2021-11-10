@@ -22,5 +22,5 @@ In June 2015 and March 2017, the two Sentinel-2 satellites have been successfull
 This thematic session focuses on the use of deep learning techniques originated from related fields, like computer vision (e.g., convolutional neural networks) or natural language processing (e.g., recurrent neural networks) that have proven to be useful for satellite image time series analysis.
 
 ### Submission Track
-Please submit your abstract to the following specific track __ST_STIS__
+Please submit your abstract to the following specific track __ST_STIS__  
 Submission deadline: 10th of January 2022
