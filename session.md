@@ -6,7 +6,7 @@ path: session.md
 ---
 
 #### Deep learning for Satellite Image Time Series Analysis
-at ISPRS Congress 2022 - International Society for Photogrammetry and Remote Sensing XXIV ISPRS Congress  
+at [ISPRS Congress 2022](https://www.isprs2022-nice.com/) - International Society for Photogrammetry and Remote Sensing XXIV ISPRS Congress  
 Nice - June 6-11, 2022
 
 #### Organizers
