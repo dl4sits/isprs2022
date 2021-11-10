@@ -7,6 +7,10 @@ path: session.md
 
 ### Deep learning for Satellite Image Time Series Analysis
 
+### ISPRS Conference
+ISPRS Congress 2022 - International Society for Photogrammetry and Remote Sensing XXIV ISPRS Congress
+Nice - June 6-11, 2022
+
 #### Organizers
 
 [Dr. Charlotte Pelletier](https://sites.google.com/site/charpelletier), Univ. Bretagne Sud (IRISA), France
@@ -21,3 +25,4 @@ This thematic session focuses on the use of deep learning techniques originated 
 
 ### Submission Track
 Please submit your abstract to the following specific track __ST_STIS__
+Submission deadline: 10th of January 2022
