@@ -34,7 +34,7 @@ This tutorial covers the latest developments in deep learning techniques for tim
 
 ### Room 1B39
 
-<img src="https://breizhcrops.s3.eu-central-1.amazonaws.com/isprstutorial2022/map.png" width="600">
+<!--<img src="https://breizhcrops.s3.eu-central-1.amazonaws.com/isprstutorial2022/map.png" width="600">-->
 
 <img src="{{site.baseurl}}/assets/img/map.png" width="600">
 
