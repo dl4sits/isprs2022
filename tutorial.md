@@ -34,8 +34,7 @@ This tutorial covers the latest developments in deep learning techniques for tim
 
 ### Room 1B39
 
-<img src="https://breizhcrops.s3.eu-central-1.amazonaws.com/isprstutorial2022/map.png" width=100%>
-
+<img src="https://breizhcrops.s3.eu-central-1.amazonaws.com/isprstutorial2022/map.png" width="600">
 
 <!--- ([Google Colab Notebook 1](https://colab.research.google.com/drive/1ZJIJKvFefrrrlKgaWjUaq3_Kelnp9Wq5?usp=sharing)) 
  ([Google Colab Notebook 2](https://colab.research.google.com/drive/1DYZGgFfIA92gb7SaVi2ZPgmcIAc101rl?usp=sharing))
