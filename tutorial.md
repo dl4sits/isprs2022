@@ -12,15 +12,21 @@ path: tutorial.md
 Dynamics on the Earth’s surface are governed by continuous temporal processes that can be observed in discrete intervals by Earth observation satellites that cover the same location on Earth at regular temporal intervals. An increase in data availability and the development of data-driven methods allow us to use new space-borne measurements to estimate the parameters of deep learning models for a variety of applications, such as vegetation modeling, climate forecasting, or precipitation nowcasting.
 This tutorial covers the latest developments in deep learning techniques for time series classification with application to Earth observation. Time series classification is the task of determining a discrete class label for an unlabeled time series. Several mechanisms that often originated from related fields, like computer vision (e.g., convolutional neural networks) or natural language processing (e.g., recurrent neural networks) have proven to be useful for time series classification in the Earth observation domain. In this tutorial, we aim at providing a solid theoretical basis to understand these concepts. Practical sessions allow the participants to follow with hands-on code in Jupyter and Colab notebooks.
 
-June 5th 2022 09:00 to 12:30 with 35 Participants
+June 5th 2022 09:00 to 12:30
 
 |  | Deep Learning for Satellite Time Series Tutorial                  |
 | ---            | :-:        |    
-| 09:00 - 10:00 | Introduction (PDF-Slides)                                         |
-| 10:00 - 10:15 | break                                                             |
-| 10:15 - 11:15 | Time Series Data and Feature Extraction ([Google Colab Notebook 1](https://colab.research.google.com/drive/1ZJIJKvFefrrrlKgaWjUaq3_Kelnp9Wq5?usp=sharing)) |
-| 11:15 - 11:30 | break                                                             |
-| 11:30 - 12:30 | Deep Learning with Learned Features ([Google Colab Notebook 2](https://colab.research.google.com/drive/1DYZGgFfIA92gb7SaVi2ZPgmcIAc101rl?usp=sharing))     |
+| 09:00 - 09:05 | Opening                                         |
+| 09:05 - 09:30 | Introduction to Satellite Image Time Series (Lecture)                                      |
+| 09:30 - 10:30 | Data and Features (Google Colab Notebook 1)                                      | 
+| 10:30 - 11:00 | break                                                             |
+| 11:00 - 11:25 | Deep learning for SITS (Lecture) |
+| 11:25 - 12:25 | Deep Learning (Google Colab Notebook 2) |
+| 11:25 - 12:30 | Closing remarks     |
+
+<!--- ([Google Colab Notebook 1](https://colab.research.google.com/drive/1ZJIJKvFefrrrlKgaWjUaq3_Kelnp9Wq5?usp=sharing)) 
+ ([Google Colab Notebook 2](https://colab.research.google.com/drive/1DYZGgFfIA92gb7SaVi2ZPgmcIAc101rl?usp=sharing))
+---!>
 
 <!--
 ## General Description
