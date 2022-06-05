@@ -17,13 +17,13 @@ This tutorial covers the latest developments in deep learning techniques for tim
 
 |  | Deep Learning for Satellite Time Series Tutorial                  |
 | ---            | :-:        |    
-| 09:00 - 09:05 | Opening                                         |
-| 09:05 - 09:30 | Introduction to Satellite Image Time Series (Lecture)                                      |
+| 09:00 - 09:05 | [Opening]({{site.baseurl}}/assets/pdf/opening.pdf)                                         |
+| 09:05 - 09:30 | Introduction to Satellite Image Time Series ([Lecture]({{site.baseurl}}/assets/pdf/featureextraction.pdf))                                      |
 | 09:30 - 10:30 | Data and Features ([Google Colab Notebook 1](https://colab.research.google.com/drive/1ZJIJKvFefrrrlKgaWjUaq3_Kelnp9Wq5?usp=sharing))                                      | 
 | 10:30 - 11:00 | break                                                             |
-| 11:00 - 11:25 | Deep learning for SITS (Lecture) |
+| 11:00 - 11:25 | Deep learning for SITS ([Lecture]({{site.baseurl}}/assets/pdf/deeplearning.pdf)) |
 | 11:25 - 12:25 | Deep Learning ([Google Colab Notebook 2](https://colab.research.google.com/drive/1DYZGgFfIA92gb7SaVi2ZPgmcIAc101rl?usp=sharing)) |
-| 11:25 - 12:30 | Closing remarks     |
+| 11:25 - 12:30 | [Closing remarks]({{site.baseurl}}/assets/pdf/deeplearning.pdf)     |
 
 
 ## Directions
