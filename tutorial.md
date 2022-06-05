@@ -23,7 +23,7 @@ This tutorial covers the latest developments in deep learning techniques for tim
 | 10:30 - 11:00 | break                                                             |
 | 11:00 - 11:25 | Deep learning for SITS ([Lecture]({{site.baseurl}}/assets/pdf/deeplearning.pdf)) |
 | 11:25 - 12:25 | Deep Learning ([Google Colab Notebook 2](https://colab.research.google.com/drive/1DYZGgFfIA92gb7SaVi2ZPgmcIAc101rl?usp=sharing)) |
-| 11:25 - 12:30 | [Closing remarks]({{site.baseurl}}/assets/pdf/deeplearning.pdf)     |
+| 11:25 - 12:30 | [Closing remarks]({{site.baseurl}}/assets/pdf/closing.pdf)     |
 
 
 ## Directions
