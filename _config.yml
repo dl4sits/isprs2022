@@ -46,6 +46,7 @@ header_pages:
  - session.md
  - tutorial.md
  - about.md
+ - handson.md
 
 # Build settings
 theme: minima
