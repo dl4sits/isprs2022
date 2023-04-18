@@ -2,7 +2,7 @@
 layout: page
 title: Hands-on
 permalink: /handson/
-path: ai&em_handson.md
+path: handson.md
 ---
 
 #### 2023 -- Artificial Intelligence and Ecosystems Management in Palencia, Spain
